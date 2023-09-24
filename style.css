@@ -78,7 +78,7 @@
 .image-frame {
     width: 380px;
     height: 380px;
-    background-image: url(../images/anne.jpg);
+    background-image: url(../images/mresh.jpg);
     background-position: center;
     background-size: cover;
     border: 8px solid #FFFFFF;
@@ -1038,7 +1038,7 @@
 
 .contact-image {
     background-image: linear-gradient(to bottom right, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)),
-        url(images/are-software-engineers-happy.png);
+        url(images/black-girls-code_4x.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -1134,7 +1134,7 @@
 
 .section-7 {
     padding: 170px 0px 170px 0px;
-    background-image: url(images/ux_ui-01-3.jpg);
+    background-image: url(images/download\ \(1\).png);
     background-position: top;
     background-size: cover;
     position: relative;
